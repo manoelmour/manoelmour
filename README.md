@@ -1,4 +1,4 @@
- ## 📚 GitHub Status
+ ## ✔️ GitHub Status
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manoelmour&theme=soft-green&hide_border=true&card_width=100)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoelmoura&show_icons=true&hide_border=true&card_width=100&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428)
 -->
 <div style="display: inline_block"><br>
@@ -6,7 +6,7 @@
   <img height=192  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelmoura&layout=compact&theme=shadow_green&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=0d1117" />
 </div> 
    
-## 📚 Skills
+## 📗 Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="manoelmoura-html"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="manoelmoura-htm5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
